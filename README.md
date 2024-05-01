@@ -1,6 +1,9 @@
 # Anomaly_Detection_Smoke_Sensor
 Integrating smoke sensors with an AI chatbot for instant anomaly alerts. Users can confirm safety or request assistance via chat. Automated phone calls ensure response. Enhances safety with rapid detection and intervention.
 
+To understand more about this project you can check the below video:
+https://drive.google.com/file/d/1YVrjy7XOCAr23ZAiSRIenGKo0un99mAC/view?usp=sharing
+
 ASSIGN YOUR CREDENTIALS IN THE credentials.json FILE APPROPRIATELY
 
 Getting your Discord Client Token:
