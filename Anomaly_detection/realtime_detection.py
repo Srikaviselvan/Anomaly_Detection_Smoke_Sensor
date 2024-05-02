@@ -58,5 +58,5 @@ async def on_ready():
             break
 
 
-
-bot.run("MTIxNzM1MDA3MzQwNzYzNTQ2Ng.GjTVX5.Hjm5YAkgh8Z7-jP-LQ2nBht4M37c1sI96TzYJ4")
+#Paste your discord bot api key inside bot.run("")
+bot.run("")
